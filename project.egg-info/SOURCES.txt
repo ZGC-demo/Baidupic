@@ -1,0 +1,13 @@
+setup.py
+baidupic/__init__.py
+baidupic/items.py
+baidupic/middlewares.py
+baidupic/pipelines.py
+baidupic/settings.py
+baidupic/spiders/__init__.py
+baidupic/spiders/baidupic.py
+project.egg-info/PKG-INFO
+project.egg-info/SOURCES.txt
+project.egg-info/dependency_links.txt
+project.egg-info/entry_points.txt
+project.egg-info/top_level.txt
